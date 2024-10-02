@@ -4,7 +4,7 @@ toc: false
 ---
 
 This is the landing page.
-
+Et ceci est un test !
 ## Explore
 
 {{< cards >}}
